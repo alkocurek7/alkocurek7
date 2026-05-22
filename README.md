@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @alkocurek7
-- 👀 I’m interested in learning programming and project management 
-- 🌱 I’m currently learning basics of HTML and CSS
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i have two pomeranians who I love dearly!!!
+# Alexis Kocurek
 
-<!---
-alkocurek7/alkocurek7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Independent AI safety researcher. Founder, Neural Shelf methodology.
+
+**Current research:** The Detection Gap — how AI safety classifiers misclassify 
+cognitive integration as dependency risk in neurodivergent users.
+
+**Preprint:** [Detecting the Undetected](https://osf.io/j52sp) (Neural Shelf, April 2026)
+
+**Portfolio:** [neural-shelf.vercel.app](https://neural-shelf.vercel.app)
